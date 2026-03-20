@@ -19,5 +19,6 @@ Onshape files [here](https://cad.onshape.com/documents/e6482d1ab00cb5a2719e37b7/
 | Machine Screws| 6 | ~$1 | [amazon](https://a.co/d/0e3UtxS2) | Any M3 x 25mm screw will do |
 | Self Tapping Screws | 12 | ~$1 | [amazon](https://a.co/d/05gDwUqy) | 8x M2.6 x 8mm, 4x M2.3 x 5mm |
 | Wires | ~ | ~ | ~ | Need to figure out better wiring solution |
+| PLA Filament | ~ | ~ | ~ | Will update with exact filament usage |
 
-**Total: ~$XX**
+**Total: ~$200**
