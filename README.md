@@ -2,6 +2,16 @@
 
 ![Bee Write Back WriterDeck](images/deck.jpeg)
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Build Guide](#sounds-cool-i-want-to-make-one)
+- [3D Printing](#3d-printing)
+- [Software](#software)
+- [Parts List](#parts-list)
+- [Issues](#issues)
+- [TODO](#todo)
+
 ## Introduction
 
 I struggled to fall alseep easily for a while, and after being recommended journaling I found that it helped me immensely. The one catch was that I didn't like writing in a physical journal, since I would be greeted by all of my previous entries and all the emotions would come flooding back.
