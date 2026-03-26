@@ -94,7 +94,7 @@ The battery life sucks right now, and the power switch does a full power cycle w
 
 Below is the proposed block diagram for the next version of the Bee-Write-Back.
 
-[!Bee Write Back](images/block.png)
+![Bee Write Back](images/block.jpeg)
 
 ## TODO
 
