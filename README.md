@@ -24,12 +24,11 @@ After creating the first one, I wanted to make it as cheap and available as poss
 
 ## Build Guide
 
-Since this is still a WIP, and I am ironing out some small changes, I have not created a formal build guide yet. However, I have put together 3 BOMs down below. Expect a build guide soon!  
+Since this is still a WIP, and I am ironing out some small changes, I have not created a formal build guide yet. However, I have put together 2 BOMs down below. Expect a build guide soon!  
 
 For now I have included block diagrams for each variant:
 - [Original](images/block_OG.png)
 - [PiJuice](images/block_PJ.png)
-- [Android](images/block_AOSP.png)
 
 ## Hardware
 
@@ -39,7 +38,6 @@ The Onshape file has 3 versions, which are as follows:
 
 Main - Original design, utilizes Waveshare battery hat
 PiJuice - Improved design, utilizes PiJuice Zero hat
-Android - Adapted design, utilizes Android phone instead of Raspberry Pi. 
 
 If you want to 3D print this, you can find the STLs and 3MF files in the [Hardware](Hardware) directory.
 
@@ -62,6 +60,5 @@ For more a more detailed breakdown of the cost for each variant, please referenc
   
 - Original: [$220](Hardware/Original/BOM_OG.md)
 - PiJuice: [$270](Hardware/PiJuice/BOM_PJ.md)
-- Android: [$120](Hardware/Android/BOM_AOSP.md)  
   
 **This number does NOT include shipping, taxes and/or tariffs**
