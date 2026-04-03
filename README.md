@@ -1,6 +1,6 @@
 # Bee Write Back
 
-![Bee Write Back WriterDeck](images/writerdeck_1.jpeg)
+![Bee Write Back WriterDeck](images/bee-write-back_1.jpeg)
 
 ## Table of Contents
 
