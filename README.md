@@ -16,8 +16,6 @@ I struggled to fall alseep easily for a while, and after being recommended journ
 
 To solve this problem, I created a simple Raspberry Pi based journal, which I could use each night, entering in the chaos of the day, locking it away once I was done. After creating this, I found that the form factor of the writerdeck was really fun to use, and began developing more apps and functions, including a Claude chat client.
 
-After creating the first one, I wanted to make it as cheap and available as possible, so I took the CAD model and adapted it for an old Android phone.
-
 [![Bee Write Back Demo Video](https://img.youtube.com/vi/mUFC60MM2Fw/0.jpg)](https://youtu.be/mUFC60MM2Fw)
 
 ^ Click me to watch a quick demo ^
