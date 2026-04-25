@@ -1,3 +1,8 @@
 blankerprg python3 /home/starbuck/bwb-muthr/scripts/screensaver.py
 idle 60 blanker
 startup_message off
+autodetach
+zombie kr
+msgwait 0
+
+screen -t muthr bash -c '/home/starbuck/bwb-muthr/scripts/startup.sh; exec bash'
