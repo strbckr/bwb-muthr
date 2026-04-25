@@ -1,0 +1,3 @@
+blankerprg python3 /home/starbuck/bwb-muthr/scripts/screensaver.py
+idle 60 blanker
+startup_message off
