@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-see%20below-lightgrey)
 ![Platform: Raspberry Pi](https://img.shields.io/badge/platform-Raspberry%20Pi-red)
 
-**A Weyland-Yutani-inspired writerdeck. A detached fork of [bee-write-back](https://github.com/shmimel/bee-write-back) by shmimel.**
+**A Weyland-Yutani-inspired writerdeck. Detached fork of [bee-write-back](https://github.com/shmimel/bee-write-back) by shmimel.**
 
 ![MUTHR WIP](images/muthrwipassembled.jpg)
 
