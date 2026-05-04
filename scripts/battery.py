@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 import json
 
-STATUS_FILE = "/tmp/battery_status.json"
-HISTORY_FILE = "/tmp/battery_history.json"
+STATUS_FILE = "/home/starbuck/.local/share/muthr/battery_status.json"
+HISTORY_FILE = "/home/starbuck/.local/share/muthr/battery_history.json"
 CHART_WIDTH = 48
 CHART_HEIGHT = 8
 
