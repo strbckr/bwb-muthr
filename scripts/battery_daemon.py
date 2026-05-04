@@ -8,8 +8,8 @@ from ina219 import INA219
 SHUNT_OHMS = 0.1
 MAX_EXPECTED_AMPS = 0.6
 BATTERY_CAPACITY_MAH = 3400
-OUTPUT_FILE = "/tmp/battery_status.json"
-HISTORY_FILE = "/tmp/battery_history.json"
+OUTPUT_FILE = "/home/starbuck/.local/share/muthr/battery_status.json"
+HISTORY_FILE = "/home/starbuck/.local/share/muthr/battery_history.json"
 SAMPLE_INTERVAL = 5
 SAMPLES_TO_AVERAGE = 180
 CHARGING_SAMPLES = 3
